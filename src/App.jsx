@@ -61,7 +61,7 @@ function App() {
           </div>
 
 
-          <button type="submit">Registrar</button>
+          <button type="submit">Registrar </button>
         </form>
 
         {enviado && (
